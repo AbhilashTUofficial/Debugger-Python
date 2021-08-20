@@ -1,0 +1,24 @@
+{
+  "name": "@abhilashtuofficial/debugger-python",
+  "version": "1.0.0",
+  "description": "A logger for easy debugging and tracking the errors and warnings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhilashTUofficial/Debugger-Python.git"
+  },
+  "keywords": [
+    "debugger",
+    "logger",
+    "utility"
+  ],
+  "author": "Abhilash T.U",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhilashTUofficial/Debugger-Python/issues"
+  },
+  "homepage": "https://github.com/AbhilashTUofficial/Debugger-Python#readme"
+}
