@@ -6,4 +6,4 @@ from logger.logger_warning import *
 
 
 print("hi")
-errorLogger.error("error")
+errorLogger.error("error message")
